@@ -15,7 +15,9 @@ const allowedOrigins = [
   'http://127.0.0.1:5173',
   'http://localhost:3000',
   'http://127.0.0.1:3000',
-  'https://69af30c8a0fcd9a48ff6266a--precious-kelpie-7e1c20.netlify.app'
+  'https://democrypt.netlify.app/',
+  'https://democrypt.netlify.app'
+
 ];
 
 const isLocalDevOrigin = (origin) =>
